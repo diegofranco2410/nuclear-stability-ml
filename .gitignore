@@ -1,0 +1,16 @@
+# Python caches
+__pycache__/
+*.pyc
+
+# Virtual Environments
+env/
+venv/
+.env
+.ipynb_checkpoints/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Mac OS junk (si alguien con mac clona tu repo)
+.DS_Store
