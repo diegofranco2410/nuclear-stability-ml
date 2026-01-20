@@ -101,7 +101,7 @@ While the Liquid Drop Model's **Volume Term ($a_1 A$)** contributes the most to 
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/nuclear_stability.git](https://github.com/YOUR_USERNAME/nuclear_stability.git)
+    git clone [https://github.com/diegofranco2410/nuclear_stability.git](https://github.com/diegofranco1410/nuclear_stability.git)
     cd nuclear_stability
     ```
 
@@ -122,4 +122,4 @@ This project is open-source under the MIT License.
 
 ## 📬 Contact
 Created by **Diego Franco** - B.Sc. Physics Candidate & Data Science Practitioner.
-[LinkedIn](https://www.linkedin.com/in/diegofranco2410/) | [Email](diegofranco2410@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/diegofranco2410/) | [Email](mailto:diegofranco2410@gmail.com)
